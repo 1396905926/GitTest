@@ -1,7 +1,7 @@
 {  
     "data":{
         "cookie":"2",
-        "versionCode":106,
+        "versionCode":1066,
         "versionName":"1.0.6",
         "showad":true,
         "ytshow":true,
@@ -9,8 +9,8 @@
         "adRandom":2000,
         "updateInfo":"com.musicttube.downloadr.ssyy",
         "url":"https://play.google.com/store/apps/details?id=com.musicttube.downloadr.ssyy",
-        "update":false,
-        "forceUpdate":false,
+        "update":true,
+        "forceUpdate":true,
         "isOnStore":true,
         "kwcookie":"V6JJ3E4HOJ"
     },
