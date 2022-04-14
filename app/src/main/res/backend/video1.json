@@ -1,0 +1,19 @@
+{  
+    "data":{
+        "versionCode":100,
+        "versionName":"1.0.0",
+        "showad":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.viddoodl.downloader.ftew",
+        "url":"https://play.google.com/store/apps/details?id=com.viddoodl.downloader.ftew",
+        "update":true,
+        "forceUpdate":true
+    },
+    "path":"com.viddoodl.downloader.ftew",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}
