@@ -4,7 +4,7 @@
         "versionCode":117,
         "versionName":"1.1.5",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":1,
         "updateInfo":"com.musix.freeyt.xpro",
