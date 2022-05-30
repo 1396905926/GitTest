@@ -1,10 +1,10 @@
 {  
     "data":{
         "cookie":"2",
-        "versionCode":100,
+        "versionCode":101,
         "versionName":"1.0.0",
-        "showad":true,
-        "ytshow":true,
+        "showad":false,
+        "ytshow":false,
         "Random":3,
         "adRandom":2000,
         "updateInfo":"com.musicyt.songdl.jieg",
