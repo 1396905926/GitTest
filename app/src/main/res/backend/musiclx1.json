@@ -7,9 +7,9 @@
         "ytshow":true,
         "Random":3,
         "adRandom":2000,
-        "updateInfo":"com.musicyt.songdl.jieg",
-        "url":"https://play.google.com/store/apps/details?id=com.musicyt.songdl.jieg",
-        "update":true,
+        "updateInfo":"com.playtube.songs.alldl",
+        "url":"https://play.google.com/store/apps/details?id=com.playtube.songs.alldl",
+        "update":false,
         "forceUpdate":false,
         "isOnStore":true,
         "kwcookie":"V6JJ3E4HOJ"
