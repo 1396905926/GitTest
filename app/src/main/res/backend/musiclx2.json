@@ -16,6 +16,7 @@
         "getHot":2,
         "vk":1
     },
+    "giao":"弃用",
     "path":"app-debug.apk",
     "ads":{
          "app":"",  
