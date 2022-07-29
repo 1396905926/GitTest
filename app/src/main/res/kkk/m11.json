@@ -1,0 +1,23 @@
+{  
+    "data":{
+        "cookie":"2",
+        "versionCode":101,
+        "versionName":"1.0.1",
+        "showad":false,
+        "ytshow":false,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.playtube.free.mp3songss",
+        "url":"https://play.google.com/store/apps/details?id=com.playtube.free.mp3songss",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"CKD2POQSX3J"
+    },
+    "path":"com.maudiox.downloder.tgiae",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}
