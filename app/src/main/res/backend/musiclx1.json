@@ -1,15 +1,15 @@
 {  
     "data":{
-        "cookie":"12",
+        "cookie":"2",
         "versionCode":106,
         "versionName":"1.0.1",
         "showad":true,
         "ytshow":true,
         "Random":3,
         "adRandom":2000,
-        "updateInfo":"com.playtube.songs.alldl",
-        "url":"https://play.google.com/store/apps/details?id=com.playtube.songs.alldl",
-        "update":false,
+        "updateInfo":"com.playtube.freesongal.musixlxxt3",
+        "url":"https://play.google.com/store/apps/details?id=com.playtube.freesongal.musixlxxt3",
+        "update":true,
         "forceUpdate":false,
         "isOnStore":true,
         "kwcookie":"V6JJ3E4HOJ"
