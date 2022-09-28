@@ -10,7 +10,7 @@
         "updateInfo":"com.ggplayer.song.musicppls",
         "url":"https://play.google.com/store/apps/details?id=com.ggplayer.song.musicppls",
         "update":true,
-        "forceUpdate":true,
+        "forceUpdate":false,
         "isOnStore":true,
         "kwcookie":"UL1GM4745L",
         "getHot":2,
