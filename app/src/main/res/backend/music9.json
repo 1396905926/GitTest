@@ -10,7 +10,7 @@
         "adRandom":1,
         "updateInfo":"com.playtube.musicdl.tunoi",
         "url":"https://play.google.com/store/apps/details?id=com.playtube.musicdl.tunoi",
-        "update":true,
+        "update":false,
         "showU3d":true,
         "forceUpdate":false,
         "vk":2,
