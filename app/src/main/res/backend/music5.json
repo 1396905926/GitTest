@@ -10,7 +10,7 @@
         "updateInfo":"com.playertube.musicdl.ddges",
         "url":"https://play.google.com/store/apps/details?id=com.playertube.musicdl.ddges",
         "update":true,
-        "forceUpdate":true,
+        "forceUpdate":false,
         "isOnStore":true,
         "kwcookie":"V6JJ3E4HOJ"
     },
