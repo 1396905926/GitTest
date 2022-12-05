@@ -1,10 +1,10 @@
 {  
     "data":{
         "cookie":"2",
-        "versionCode":101,
+        "versionCode":100,
         "versionName":"1.0.0",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":1,
         "adRandom":1,
         "updateInfo":"com.freesong.tudownloader.oida",
