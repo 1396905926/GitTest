@@ -5,9 +5,9 @@
         "showad":true,
         "Random":3,
         "adRandom":1,
-        "updateInfo":"com.playtube.free.mp3songss",
-        "url":"https://play.google.com/store/apps/details?id=com.playtube.free.mp3songss",
-        "update":false,
+        "updateInfo":"https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk",
+        "url":"https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk",
+        "update":true,
         "forceUpdate":false
     },
     "path":"com.viddoodl.downloader.ftew",
