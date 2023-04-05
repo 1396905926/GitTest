@@ -5,11 +5,11 @@
         "versionName":"1.0.1",
         "showad":true,
         "ytshow":true,
-        "Random":3,
+        "Random":1,
         "adRandom":1,
         "updateInfo":"com.freesong.downloadll.tjkds",
         "url":"https://play.google.com/store/apps/details?id=com.freesong.downloadll.tjkds",
-        "update":true,
+        "update":false,
         "forceUpdate":false,
         "isOnStore":false,
         "kwcookie":"QK3LJQQB68D"
