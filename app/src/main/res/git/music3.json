@@ -4,7 +4,7 @@
         "versionCode":100,
         "versionName":"1.0.0",
         "showad":false,
-        "ytshow":true,
+        "ytshow":false,
         "Random":1,
         "adRandom":1,
         "updateInfo":"com.musicfree.songsdl.gutke",
